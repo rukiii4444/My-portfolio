@@ -47,8 +47,9 @@ header {
 }
 
 .header-list a:hover {
-    color: #000000;
-    text-decoration: underline; 
+    color: #00754a;
+    font-weight: bolder;
+    /* text-decoration: underline;  */
 }
 
 .header-left a {
@@ -120,8 +121,13 @@ main {
     color: #000000;
     text-decoration: none;
     text-align: center;
-}
+} 
 
+.contents-item a:hover{
+    font-weight: bolder;
+    color: #00754a;
+
+}
 
 
 
