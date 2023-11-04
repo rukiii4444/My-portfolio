@@ -2,7 +2,7 @@ const headerContent =
 `
 <header>
     <div class="header-logo">            
-        <a href="https://rukiii4444.github.io/my-portfolio/index.htlm" class="header-logo">haru</a>
+        <a href="https://rukiii4444.github.io/my-portfolio/" class="header-logo">haru</a>
     </div>
     <div class="header-list">
         <div class="header-left">
