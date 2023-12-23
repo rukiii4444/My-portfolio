@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+a {
+    font-weight: lighter;
+}
+
+li {
+    list-style: none;
+}
+
+.clear{
+    clear: left;
+}
+
+
+.image{
+    text-align: center;
+    width: 90%;
+}
