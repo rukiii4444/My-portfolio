@@ -6,7 +6,7 @@ const headerContent =
     </div>
     <div class="header-list">
         <div class="header-left">
-            <a href="https://rukiii4444.github.io/my-portfolio/blogs/blog.html">Blog</a>
+            <a href="my-portfolio/blogs/blog.html">Blog</a>
             <a href="https://rukiii4444.github.io/my-portfolio/contact/contact.html">Contact</a>
         </div> 
         <a href="https://github.com/rukiii4444" class="header-right"><i class="fa-brands fa-github"></i>GitHub</a>
