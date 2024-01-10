@@ -82,6 +82,10 @@ main {
     font-weight: lighter;
 }
 
+.sub-title span {
+    font-size: 50px;
+}
+
 .contents-title {
     border-bottom: 2px solid #dee7ec;
     font-size: 28px;
@@ -103,7 +107,7 @@ main {
     width: 33.3333%;
     text-align: center;
     margin: 50px 0px 0px; 
-/*     border: 2px solid #dee7ec; */
+    /* border: 2px solid #dee7ec; */
 }
 
 .contents-thumbnail {

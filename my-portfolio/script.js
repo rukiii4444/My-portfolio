@@ -27,3 +27,4 @@ const footerContent =
 `
 
 document.getElementById("footer").innerHTML = footerContent;
+
