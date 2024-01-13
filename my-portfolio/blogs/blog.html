@@ -42,16 +42,15 @@
         </main>
         <footer id="footer"></footer>
 
-
         <script>
             var password = prompt("合言葉を言え");
-                if(password === Sky){
-                    alert("見ていいよ");
-                }else{
-                    alert("雑魚やん");
-                    window.history.back();
-                }
+            
+            if(password !== "Sky"){
+                alert("雑魚やん");
+                window.history.back();
+            }
         </script>
+
         <script src="../script.js"></script>
     </body>
 </html>
