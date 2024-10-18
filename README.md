@@ -1,2 +1,2 @@
 # my-portfolio
-学生時代に初めて作ったポートフォリオのリポジトリです
+“This is the first portfolio website I created during my student days.”
